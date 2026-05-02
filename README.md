@@ -35,3 +35,19 @@ Security: Spring Security, JWT Authentication
 ORM: Hibernate / Spring Data JPA
 
 Build Tool: Maven
+
+📌 Project Highlights
+
+  -- Developed a secure REST API using Spring Boot
+
+  -- Implemented JWT authentication for user security
+
+  -- Designed scalable database structure using MySQL
+
+  -- Built automation features like scheduled reminders
+
+  -- Integrated chatbot for enhanced user interaction
+  
+🎯 Objective
+
+The goal of this project is to build a real-world productivity application while gaining hands-on experience in backend development, authentication systems, and database management.
